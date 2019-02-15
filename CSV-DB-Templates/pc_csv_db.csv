@@ -1,0 +1,16 @@
+id,country,country_code,rtor_tally,rtor,poi_tally,poi,speaker_tally,speaker,state_tally,state,modc,mod_tally,mod_speech_tally,mod_speech,reso_speech,reso_speech_tally,ammendments,ammendments_tally,fps,fps_tally,total_tally,total,average,score
+1,EUROPEAN AFFAIRS,pc_1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,EDUCATION,pc_2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,FOREIGN MINISTER,pc_3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,INFRA/TRANSPORT,pc_4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,TOURISM,pc_5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,FAMILIES/DISABILITIES,pc_6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,JUSTICE,pc_7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,"INTERIOR, DEPUTY PM",pc_8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,REGIONAL AFFAIRS,pc_9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,FINANCE,pc_10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,DEFENSE,pc_11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,ENVIRONMENT,pc_12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HEALYH,pc_13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,"ECONOMIC DEV, LABOR/SOCIAL POLICY, DEPUTY PM",pc_14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MINSTER FOR SOUTH,pc_15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
